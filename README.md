@@ -156,9 +156,9 @@ The Streamlit application provides the following features:
 
 ### Model Performance Heatmap
 
-![Model Performanceerformance_heatmap](screenshots/model_performance_heatmap_1.PNG)
+![Model Performanceerformance_heatmap_1](screenshots/model_performance_heatmap_1.PNG)
 
-![Model Performanceerformance_heatmap](screenshots/model_performance_heatmap_2.PNG)
+![Model Performanceerformance_heatmap_2](screenshots/model_performance_heatmap_2.PNG)
 
 ### Complete Model Comparison Table
 
@@ -174,7 +174,7 @@ The Streamlit application provides the following features:
 
 ### Prediction Results
 
-![Prediction Results](screenshots/prediction_distribution_1.PNG)
+![Prediction Results_1](screenshots/prediction_distribution_1.PNG)
 
-![Prediction Results](screenshots/prediction_distribution_2.PNG)
+![Prediction Results_2](screenshots/prediction_distribution_2.PNG)
 
