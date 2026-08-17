@@ -33,7 +33,7 @@ An interactive Streamlit web application is developed to allow users to:
 * Review a classification report
 * Visualize the confusion matrix
 
-\---
+---
 
 ## B. Dataset Description
 
@@ -82,15 +82,15 @@ The Breast Cancer Wisconsin Dataset satisfies the assignment requirements becaus
 * It is suitable for comparing multiple classification algorithms.
 * It is widely used for machine learning benchmarking and evaluation.
 
-\---
+---
 
 ## C. GitHub Repository Link
 
 GitHub Repository:
 
-https://github.com/Sunita-Swain/2025DA04295\_ML\_Assignment2
+https://github.com/Sunita-Swain/2025DA04295_ML_Assignment2
 
-\---
+---
 
 ## D. Models Used and Performance Comparison
 
@@ -106,7 +106,7 @@ https://github.com/Sunita-Swain/2025DA04295\_ML\_Assignment2
 
 
 
-\---
+---
 
 ## E. Model Performance Observations
 
@@ -119,19 +119,19 @@ https://github.com/Sunita-Swain/2025DA04295\_ML\_Assignment2
 |Random Forest|Random Forest produced the second-best overall performance with Accuracy of 95.61% and AUC of 99.37%. Ensemble learning improved robustness and classification performance.|
 |Overall Winner|Logistic Regression was selected as the best-performing model because it achieved the highest Accuracy, AUC, Recall, F1 Score, and MCC values among all evaluated models.|
 
-\---
+---
 
 
 
-\---
+---
 
 ## F. Live Streamlit Application
 
 Streamlit Application Link:
 
-https://2025da04295-ml-assignment2.streamlit.app/
+https://2025da04295-ml-assignment2.streamlit.app
 
-\---
+---
 
 ## G. Application Features
 
@@ -146,35 +146,35 @@ The Streamlit application provides the following features:
 * Visualize confusion matrix heatmap
 * Analyze prediction distribution
 
-\---
+---
 
 ## H. Screenshots
 
 ### Streamlit Dashboard Home Page
 
-!\[Streamlit Dashboard Home Page](screenshots/dashboard\_home.PNG)
+![Streamlit Dashboard Home Page](screenshots/dashboard_home.PNG)
 
 ### Model Performance Heatmap
 
-!\[Model Performanceerformance\_heatmap](screenshots/model\_performance\_heatmap\_1.PNG)
+![Model Performanceerformance_heatmap](screenshots/model_performance_heatmap_1.PNG)
 
-!\[Model Performanceerformance\_heatmap](screenshots/model\_performance\_heatmap\_2.PNG)
+![Model Performanceerformance_heatmap](screenshots/model_performance_heatmap_2.PNG)
 
 ### Complete Model Comparison Table
 
-!\[Complete Model Comparison Table](screenshots/Complete\_model\_comparison\_table.PNG)
+![Complete Model Comparison Table](screenshots/Complete_model_comparison_table.PNG)
 
 ### Classification Report
 
-!\[Classification Report](screenshots/classification\_report.PNG)
+![Classification Report](screenshots/classification_report.PNG)
 
 ### Confusion Matrix Heatmap
 
-!\[Confusion Matrix Heatmap](screenshots/confusion\_matrix\_heatmap.PNG)
+![Confusion Matrix Heatmap](screenshots/confusion_matrix_heatmap.PNG)
 
 ### Prediction Results
 
-!\[Prediction Results](screenshots/prediction\_distribution\_1.PNG)
+![Prediction Results](screenshots/prediction_distribution_1.PNG)
 
-!\[Prediction Results](screenshots/prediction\_distribution\_2.PNG)
+![Prediction Results](screenshots/prediction_distribution_2.PNG)
 
