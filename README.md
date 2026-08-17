@@ -88,7 +88,7 @@ The Breast Cancer Wisconsin Dataset satisfies the assignment requirements becaus
 
 GitHub Repository:
 
-https://github.com/Sunita-Swain/2025DA04295\_ML\_Assignment2.git
+https://github.com/Sunita-Swain/2025DA04295\_ML\_Assignment2
 
 \---
 
